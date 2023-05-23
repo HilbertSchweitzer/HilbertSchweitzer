@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Hilbert, a student aspired to be a data scientist.
+- 👋 Hi, I’m Hilbert, a student aspiring to be a data scientist.
 - 👀 I’m interested in advanced Python skills, machine learning and other interesting stuff.
 - 📫 Please contact @hilbert_jia@163.com
